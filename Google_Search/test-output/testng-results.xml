@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5756" started-at="2020-12-10T17:06:50 IST" finished-at="2020-12-10T17:06:56 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5756" started-at="2020-12-10T17:06:50 IST" finished-at="2020-12-10T17:06:56 IST">
+      <class name="Selenium.google_Search.Equipt_Login">
+        <test-method status="PASS" signature="runner()[pri:0, instance:Selenium.google_Search.Equipt_Login@4fe767f3]" name="runner" duration-ms="5575" started-at="2020-12-10T17:06:50 IST" finished-at="2020-12-10T17:06:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runner -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:Selenium.google_Search.Equipt_Login@4fe767f3]" name="closeDriver" is-config="true" duration-ms="99" started-at="2020-12-10T17:06:56 IST" finished-at="2020-12-10T17:06:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- Selenium.google_Search.Equipt_Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
